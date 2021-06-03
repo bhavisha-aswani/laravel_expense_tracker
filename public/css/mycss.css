@@ -1,0 +1,51 @@
+.btn-success {
+  font-family: Raleway-SemiBold;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 4px solid rgba(103, 192, 103, 0.75);
+  border-radius: 40px;
+  color: #fff;
+   background-color: #38c172;
+  transition: all 0.3s ease 0s;
+}
+
+.btn-success:hover {
+  color: #FFF;
+  background: rgb(103, 192, 103, 0.75);
+  border: 2px solid rgb(103, 192, 103, 0.75);
+}
+.btn-primary {
+  font-family: Raleway-SemiBold;
+  font-size: 16px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(58, 133, 191, 0.75);
+  border-radius: 40px;
+  transition: all 0.3s ease 0s;
+}
+.card-header{
+  background-color: #01c8f8;
+  font-size: 20px;
+  font: bold;
+  color:white;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background:linear-gradient(90deg, rgba(28,215,210,0.01) 0%, rgba(26,190,211,1) 0%, rgba(19,100,214,1) 62%, rgba(7,9,92,1) 92%);
+    color: white;
+    font-family:Allerta Stencil;
+   font-size:16px;
+   font:bold;
+   text-align: center;
+}
+.navbar{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 14%, rgba(0,212,255,1) 100%);
+}
+.nav-link{
+  font-family:Allerta Stencil;
+}
