@@ -5,3 +5,4 @@ Total Income and Expense visuals for each month will be shown in bar chart.<br/>
 Frontend- Bootstrap4<br/>
 Laravel- 7<br/>
 Database name- track<br/>
+Snapshot folder- snapshot of project
